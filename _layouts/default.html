@@ -32,6 +32,25 @@
 
       </section>
 
-    </div>
+	</div>
+	<div id="home">
+		<h1>我的文章</h1>
+		<ul class="posts">
+			
+		  {% for post in site.posts %}
+			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href=".{{ post.url }}">{{ post.title }}</a></li>
+		  {% endfor %}
+		</ul>
+	  
+		<h1>我的收藏</h1>
+		<ul class="posts">
+		
+		</ul>
+	  
+		<h1>我的代码</h1>
+		<ul class="posts">
+		
+		</ul>
+	  </div>
   </body>
 </html>
