@@ -1,3 +1,11 @@
+---
+layout: post
+title: Catsby 开发手札
+---
+
+{{ page.title }}
+================
+
 ## Hello World
 ``` c
 
