@@ -6,7 +6,7 @@ title: Unity 使用Shader 对 UGUI Image 进行图像处理
 {{ page.title }}
 ================
 
-# 先放效果图
+## 先放效果图
 
 ![原图](/images/1.webp)
 
@@ -23,7 +23,7 @@ title: Unity 使用Shader 对 UGUI Image 进行图像处理
 我是直接在官方自带Shader UI-Default 基础上改的，怕你们找不到，我放在网盘了
 链接：http://pan.baidu.com/s/1pLfWK4b 密码：jpje
 
-## 以下是色调、灰度化、对比度设置的Shader的代码，我都写在一个Shader里面了  
+### 以下是色调、灰度化、对比度设置的Shader的代码，我都写在一个Shader里面了  
 
 ``` c#
 Shader "Custom/UI/Base"
