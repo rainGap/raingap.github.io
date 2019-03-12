@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Unity 使用Shader 对 UGUI Image 进行图像处理
 ---
 
