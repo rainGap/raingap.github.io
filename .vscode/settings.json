@@ -1,4 +1,8 @@
 {
 	"files.autoGuessEncoding": false,
 	"files.encoding": "utf8",
+	"pasteImage.path": "${projectRoot}/images",
+	"pasteImage.basePath": "${projectRoot}",
+	"pasteImage.forceUnixStyleSeparator": true,
+	"pasteImage.prefix": "/"
 }
