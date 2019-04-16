@@ -28,10 +28,6 @@ title: 贴图格式研究
     [DXT 图片压缩](https://blog.codingnow.com/2007/05/dxt.html)  
     从实现DXT1解码出发，详细介绍了DXT压缩格式，看完对各种情况下的压缩策略有了一定的认识。
 
-* 还有一个在网上搜索到的  
-    [DXT纹理压缩](https://blog.csdn.net/lhc717/article/details/6802951)
-    写得更加基础。
-
 ## 个人总结
 
 DXT 格式 也叫作 S3TC，对应的文件格式是.dds。  
