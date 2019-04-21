@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 贴图格式研究
+title: DXT 贴图格式研究
 ---
 
 {{ page.title }}
